@@ -1,0 +1,38 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Dependency manager caches
+.uv/
+
+# Type checker and testing caches
+.mypy_cache/
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log, temp, and backup files
+*.log
+*.tmp
+*.bak
+
+# User/editor/project files
+*.swp
+*.swo
+.idea/
+.vscode/
